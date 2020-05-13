@@ -1,4 +1,3 @@
-// build.sc
 import mill._, scalalib._
 
 object foo extends ScalaModule{
