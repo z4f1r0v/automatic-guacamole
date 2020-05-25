@@ -1,4 +1,4 @@
-package main.scala.com.github.z4f1r0v.automaticguacamole
+package main.scala.me.zafirov.automaticguacamole
 
 object Example {
   def main(args: Array[String]): Unit = {

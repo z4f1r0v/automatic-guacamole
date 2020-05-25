@@ -1,4 +1,4 @@
-package com.github.z4f1r0v.automaticguacamole
+package me.zafirov.automaticguacamole
 
 import utest.{TestSuite, Tests, test}
 
