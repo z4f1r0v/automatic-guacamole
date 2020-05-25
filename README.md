@@ -1,7 +1,12 @@
 # Automatic Guacamole <img src="https://image.flaticon.com/icons/png/512/877/877724.png" width="64" height="64" /> [![Build Status](https://travis-ci.com/z4f1r0v/automatic-guacamole.svg?branch=master)](https://travis-ci.com/z4f1r0v/automatic-guacamole)
 You have a great idea for an open-source project but get discouraged from having to wire up all many small finicky details?
+You'd love to have your tests run at every commit just like Jenkins does it at work?
+You like those fancy green `build|passing` icons?
+
 Now you can have your (automatic) guacamole and eat it! 
-Automatic guacamole is a small lightweight opinionated example Scala project. 
+Automatic guacamole is a small, lightweight, opinionated template Scala project to help you get started in no time,
+focusing on what really matters - contributing to the Scala ecosystem :)
+
 Simply clone/fork/replicate, adjust the details to your licking and hack away.
 
 ## What's inside
