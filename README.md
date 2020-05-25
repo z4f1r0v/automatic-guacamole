@@ -22,4 +22,4 @@ Simply clone/fork/replicate, adjust the details to your licking and hack away.
     - compile your project - `./mill -i foo.compile`
     - run tests - `./mill -i foo.test`
 - [uTest](https://github.com/lihaoyi/utest) 
-  - a small, tidy and to-the-point library to get you testing
+  - a small, tidy and to-the-point library to satisfy your testing needs
