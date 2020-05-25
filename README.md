@@ -7,7 +7,7 @@ Now you can have your (automatic) guacamole and eat it!
 Automatic guacamole is a small, lightweight, opinionated template Scala project to help you get started in no time,
 focusing on what really matters - contributing to the Scala ecosystem :)
 
-Simply clone/fork/replicate, adjust the details to your licking and hack away.
+Simply clone/fork/replicate, adjust the details to your liking and hack away.
 
 ## What's inside
 - [Travis](https://travis-ci.com/)
