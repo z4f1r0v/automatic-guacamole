@@ -1,6 +1,6 @@
-package com.github.z4f1r0v.foo
+package main.foo
 
-object Example{
+object Example {
   def main(args: Array[String]): Unit = {
     println("Hello World")
   }
